@@ -54,11 +54,5 @@ class _RandomWordsState extends State<RandomWords> {
         );
       },
     );
-  }
-
-  // @override                                  
-  // Widget build(BuildContext context) {
-  //   final wordPair = WordPair.random();      // NEW
-  //   return Text(wordPair.asPascalCase);      // NEW
-  // }                                         
+  }                                   
 }
